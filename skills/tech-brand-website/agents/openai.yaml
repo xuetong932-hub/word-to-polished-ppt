@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Brand Website / 科技品牌官网"
+  short_description: "Build cinematic tech brand websites with accessible motion"
+  default_prompt: "Use $tech-brand-website to create a complete responsive technology brand website as a single index.html."
